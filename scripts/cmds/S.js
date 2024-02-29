@@ -1,6 +1,6 @@
 module.exports = {
     config: {
-        name: "S",
+        name: "Si",
         version: "1.0",
         author: "kivv",
         countDown: 5,
